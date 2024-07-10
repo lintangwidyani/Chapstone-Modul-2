@@ -50,6 +50,7 @@ Mengevaluasi hubungan antara jumlah kunjungan ke situs web perusahaan (NumWebVis
 - Berdasarkan campaign promo yang diberikan supermarket beberapa kali, penerimaan pelanggan paling banyak adalah pada pada campaign terakhir, untuk campaign promosi ke 1, 3, 4, dan 5 cenderung stagnan, namun terdapat penuruan pada campaign promo ke 2
 - Channel pembelian yang paling banyak digunakan pelanggan untuk berbelanja dengan mendatangi store secara langsung, kemudian disusul pembelanjaan melalui web, dan yang terakhir melalui catalog
 - Hasil korelasi antara visit pelanggan ke web dan pembelian melalui web signifikan secara statistik
+
 Sehingga rekomendasi yang dapat diberikan adalah:
 - Supermarket dapat melakukan marketing yang terpusat pada profil pelanggan yang telah dianalisis sebelumnya
 - Dengan melihat preferensi pelanggan terhadap produk supermarket, maka supermarket dapat mengantisipasi stock produk yang ada berdasarkan yang paling banyak diminati hingga kurang diminati, sehingga supermarket tidak akan kehabisan stock produk
