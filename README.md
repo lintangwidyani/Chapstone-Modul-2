@@ -43,7 +43,7 @@ Berdasarkan hasil barchart channel penjualan produk diatas menunjukkan bahwa pen
 Mengevaluasi hubungan antara jumlah kunjungan ke situs web perusahaan (NumWebVisitsMonth) dan jumlah pembelian melalui situs web. Apakah pelanggan yang sering mengunjungi situs web juga cenderung lebih aktif dalam berbelanja secara online?
 - Korelasi antara jumlah visit pelanggan ke web dan pembelian melalui web cenderung lemah dan negatif. Ini berarti terdapat kecenderungan bahwa ketika satu variabel meningkat, variabel lainnya cenderung menurun, meskipun tidak secara kuat
 - Nilai P-Value yang sangat kecil menunjukkan bahwa hubungan ini tidak terjadi secara kebetulan dalam sampel yang di analisis, sehingga hasil korelasi antara visit pelanggan ke web dan pembelian melalui web signifikan secara statistik.
-- #Kesimpulan dan Rekomendasi
+# Kesimpulan dan Rekomendasi
 - Dari analisis yang telah dilakukan, dapat disimpulkan bahwa:
 - Mayoritas pelanggan supermarket berumur 30 hingga 50 tahun, dengan pendapatan antara 20000 hingga 80000, level pendidikan graduate, dan memiliki jumlah anggota keluarga 3
 - Produk supermarket yang paling banyak diminati oleh pelanggan adalah wine, kemudian disusul oleh meat, gold, fish, sweet products, dan yang terakhir fruit
