@@ -18,19 +18,19 @@ Berdasarkan histogram, uji statistik kruskal wallis, dan statistik deskriptif pe
 * Ada beberapa pelanggan yang memilii pendapatan di bawah 20000 dan beberapa di atas 100000, namun jumlahnya sangat sedikit dibandingkan dengan rentang pendapatan 20000 hingga 80000
 * Tidak terdapat perbedaan yang signifikan jumlah item belanja yang dibeli pelanggan antar kelompok pendapatan
 * Pelanggan yang berbelanja di supermarket memiliki pendapatan mulai dari 1730 hingga 162397. Rata-rata pendapatan pelanggan yang berbelanja di supermarket tersebut sekitar 51959, jumlah pelanggan paling banyak memiliki pendapatan sebesar 7500
-* # 3. Analisis Demografis Level Pendidikan Pelanggan
+# 3. Analisis Demografis Level Pendidikan Pelanggan
 Dilakukan analisis distribusi level pendidikan pelanggan dan hubungannya dengan jumlah item belanja pelanggan
 Berdasarkan histogram, uji statistik kruskal wallis, dan statistik deskriptif level pendidikan pelanggan diatas, dapat disimpulkan:
 * Level pendidikan pelanggan yang berbelanja di supermarket adalah basic education, undergraduate, graduate, dan postgraduate, dengan frekuensi tertinggi di level graduate mencapai sekitar 1480 pelanggan
 * Level pendidikan pelanggan paling sedikit adalah basic graduate dengan frekuensi 54 pelanggan
 * Terdapat perbedaan yang signifikan jumlah item belanja yang dibeli pelanggan antar kelompok level pendidikan pelanggan
-* # 4. Analisis Demografis Jumlah Anggota Keluarga Pelanggan
+# 4. Analisis Demografis Jumlah Anggota Keluarga Pelanggan
 Dilakukan analisis distribusi jumlah anggota keluarga pelanggan dan hubungannya dengan jumlah item belanja pelanggan
 Berdasarkan histogram, uji statistik kruskal wallis, dan statistik deskriptif jumlah anggota keluarga pelanggan diatas, dapat disimpulkan:
 * Rentang jumlah anggota keluarga pelanggan yang berbelanja di supermarket adalah antara 1 hingga 5 orang, dengan frekuensi tertinggi adalah pelanggan yang memiliki jumlah anggota keluarga sebanyak 3 orang
 * Terdapat perbedaan yang signifikan jumlah item belanja yang dibeli pelanggan antar kelompok jumlah anggota keluarga pelanggan
 * Rata-rata jumlah belanja produk paling tinggi adalah pelanggan dengan jumlah anggota keluarga hanya 1 orang, dan paling rendah adalah 4 orang anggota keluarga
-* # 5. Analisis Produk Penjualan Supermarket
+# 5. Analisis Produk Penjualan Supermarket
 Dilakukan analisis tren atau preferensi pelanggan untuk produk-produk seperti wine, buah-buahan, daging, ikan, produk-manis, dan produk emas
 Berdasarkan piechart penjualan produk diatas dapat diketahui bahwa produk yang memiliki penjualan tertinggi adalah produk wine, dan terendah adalah fruit
 # 6. Tingkat Penerimaan Pelanggan terhadap Campaign Promo
